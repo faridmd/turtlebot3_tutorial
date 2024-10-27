@@ -47,7 +47,7 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 Sebetulnya terdapat beberapa world yang ada pada package bawaan Turtlebot3, bisa kalian explore sendiri di direktori src
 
-## 6. Mengendalikan TurtleBot3 (Teleoperation Mode)
+## 6. Mengendalikan TurtleBot3 (Teleoperation Node)
 
 Buka jendela Terminal baru
 ```
