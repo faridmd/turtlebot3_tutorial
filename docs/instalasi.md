@@ -8,9 +8,9 @@ cd ~/test_turtlebot/src
 
 ## 2. Clone repository
 ```
-git clone https://github.com/ROBOTIS-GIT/turtlebot3.git
-git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
-git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+git clone https://github.com/ROBOTIS-GIT/turtlebot3.git && cd turtlebot3 && git checkout noetic-devel && cd ..
+git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git && cd turtlebot3_msgs && git checkout noetic-devel && cd ..
+git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git && cd turtlebot3_simulations && git checkout noetic-devel && cd ..
 ```
 
 ## 3. Build packagesnya
